@@ -2,10 +2,7 @@
 ===============================
 
 Mahasiswa Ilmu Komputer IPB
-
-*Asrama Putra PPKU IPB*\
-*+62 888-9888-8899*\
-*dhanadhira@yahoo.com*
+*dhana.dhira@gmail.com*
 
 Pendidikan[](#pendidikan)
 -------------------------
