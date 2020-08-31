@@ -1,31 +1,23 @@
-**Dhana Dhira**[](#dhana-dhira)
-===============================
+# Mengenal Dhana
 
-Mahasiswa Ilmu Komputer IPB
-*dhana.dhira@gmail.com*
+Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu masalah (*problem solving*). Saat ini, Dhana sedang menempuh pendidikan **sarjana ilmu komputer** di Institut Pertanian Bogor. Dhana menyukai tantangan dan persoalan baru serta pembelajar yang optimis. Hingga kini, Dhana masih terus mempelajari berbagai *hard skills*, khususnya di bidang **front-end web development** dan **mobile apps development** (Flutter dan Android native). Dhana pun masih terus mengembangkan diri dalam hal komunikasi yang baik, kerjasama dalam tim, dan men-*deliver* solusi yang ditawarkan. 
 
-Pendidikan[](#pendidikan)
--------------------------
-### Institut Pertanian Bogor[](#institut-pertanian-bogor)
-Sep 2017 -- Sekarang
+[Yuk kenali Dhana lebih lanjut..](resume.md)
 
-### SMA Negeri 2 Jakarta[](#sma-negeri-2-jakarta)
-Juni 2014 -- Juli 2017
+# Portofolio
 
-Keahlian[](#keahlian)
----------------------
-- Microsoft Office Word
-- Microsoft Office Excel
-- Microsoft Office PowerPoint
+## Portofolio Desain
 
-Makanan Kesukaan[](#makanan-kesukaan)
--------------------------------------
-- Rendang Sapi
-- Nasi Goreng
-- Rendang Ayam Krispi
+## Portofolio Software
 
-Hobi[](#hobi)
--------------
-Bermain *games*, renang, dan bersepeda
+- Aplikasi Mobile
 
----
+  1. [Dokmas (Dokumen Masyarakat)](https://github.com/ddhira123/RPL), dikembangkan dengan **Flutter, Firebase**
+  2. [Resep Masakan Indonesia](https://github.com/ddhira123/Android_Resep), dikembangkan dengan **Android Studio (native), Java**
+  3. [SCB for Parents](https://github.com/friskameilani/SCB-for-Parents), dikembangkan dengan **Flutter**
+  
+- Aplikasi Web
+
+  1. [Lunch Checker](https://ddhira123.github.io/learn-angular-jhu/Module1-solution/), dikembangkan dengan **AngularJS**
+  2. [Food Finder](https://ddhira123.github.io/learn_web_fe/index.html), dikembangkan dengan **NodeJS, AJAX, ES6**
+  
