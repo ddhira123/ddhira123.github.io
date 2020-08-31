@@ -2,7 +2,7 @@
 
 Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu masalah (*problem solving*). Saat ini, Dhana sedang menempuh pendidikan **sarjana ilmu komputer** di Institut Pertanian Bogor. Dhana menyukai tantangan dan persoalan baru serta pembelajar yang optimis. Hingga kini, Dhana masih terus mempelajari berbagai *hard skills*, khususnya di bidang **front-end web development** dan **mobile apps development** (Flutter dan Android native). Dhana pun masih terus mengembangkan diri dalam hal komunikasi yang baik, kerjasama dalam tim, dan men-*deliver* solusi yang ditawarkan. 
 
-[Yuk kenali Dhana lebih lanjut..](resume.md)
+[Yuk kenali Dhana lebih lanjut..](https://ddhira123.github.io/resume)
 
 # Portofolio
 
