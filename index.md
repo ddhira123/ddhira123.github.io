@@ -23,11 +23,11 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
 </details>
 
 <details> 
-    <summary> Aplikasi Web
-
-</summary>
-  
- 1. [Lunch Checker](https://ddhira123.github.io/learn-angular-jhu/Module1-solution/), dikembangkan dengan **AngularJS**
- 2. [Food Finder](https://ddhira123.github.io/learn_web_fe/index.html), dikembangkan dengan **NodeJS, AJAX, ES6**
+    <summary> Aplikasi Web</summary>
+    
+    <ol>
+        <li><a href="https://ddhira123.github.io/learn-angular-jhu/Module1-solution/">Lunch Checker</a>, dikembangkan dengan <strong>AngularJS</strong></li>
+        <li><a href="https://ddhira123.github.io/learn_web_fe/index.html">Food Finder</a>, dikembangkan dengan <strong>NodeJS, AJAX, ES6</strong></li>
+    </ol>
   
 </details>
