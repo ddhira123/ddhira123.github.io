@@ -10,21 +10,20 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
 
 ## Portofolio Software
 
-<details><summary>
+<details>
+    <summary> Aplikasi Mobile    
+    </summary>
     
-- Aplikasi Mobile
-
-</summary>  
-  
- 1. [Dokmas (Dokumen Masyarakat)](https://github.com/ddhira123/RPL), dikembangkan dengan **Flutter, Firebase**
- 2. [Resep Masakan Indonesia](https://github.com/ddhira123/Android_Resep), dikembangkan dengan **Android Studio (native), Java**
- 3. [SCB for Parents](https://github.com/friskameilani/SCB-for-Parents), dikembangkan dengan **Flutter**
+    <ol>
+        <li><a href="https://github.com/ddhira123/RPL">Dokmas (Dokumen Masyarakat)</a>, dikembangkan dengan <strong>Flutter, Firebase</strong></li>
+        <li><a href="https://github.com/ddhira123/Android_Resep">Resep Masakan Indonesia</a>, dikembangkan dengan <strong>Android Studio (native), Java</strong></li>
+        <li><a href="https://github.com/friskameilani/SCB-for-Parents">SCB for Parents</a>, dikembangkan dengan <strong>Flutter</strong></li>
+    </ol>
   
 </details>
 
-<details> <summary>
-  
-- Aplikasi Web
+<details> 
+    <summary> Aplikasi Web
 
 </summary>
   
