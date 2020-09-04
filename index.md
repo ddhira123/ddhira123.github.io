@@ -10,9 +10,9 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
 
 ## Portofolio Software
 
-<details>
+<details><summary>
     
-- <summary>Aplikasi Mobile
+- Aplikasi Mobile
 
 </summary>  
   
@@ -22,9 +22,9 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
   
 </details>
 
-<details>
+<details> <summary>
   
-- <summary>Aplikasi Web
+- Aplikasi Web
 
 </summary>
   
