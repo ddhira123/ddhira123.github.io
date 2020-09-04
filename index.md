@@ -16,9 +16,9 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
 
 </summary>  
   
-  1. [Dokmas (Dokumen Masyarakat)](https://github.com/ddhira123/RPL), dikembangkan dengan **Flutter, Firebase**
-  2. [Resep Masakan Indonesia](https://github.com/ddhira123/Android_Resep), dikembangkan dengan **Android Studio (native), Java**
-  3. [SCB for Parents](https://github.com/friskameilani/SCB-for-Parents), dikembangkan dengan **Flutter**
+ 1. [Dokmas (Dokumen Masyarakat)](https://github.com/ddhira123/RPL), dikembangkan dengan **Flutter, Firebase**
+ 2. [Resep Masakan Indonesia](https://github.com/ddhira123/Android_Resep), dikembangkan dengan **Android Studio (native), Java**
+ 3. [SCB for Parents](https://github.com/friskameilani/SCB-for-Parents), dikembangkan dengan **Flutter**
   
 </details>
 
@@ -28,7 +28,7 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
 
 </summary>
   
-  1. [Lunch Checker](https://ddhira123.github.io/learn-angular-jhu/Module1-solution/), dikembangkan dengan **AngularJS**
-  2. [Food Finder](https://ddhira123.github.io/learn_web_fe/index.html), dikembangkan dengan **NodeJS, AJAX, ES6**
+ 1. [Lunch Checker](https://ddhira123.github.io/learn-angular-jhu/Module1-solution/), dikembangkan dengan **AngularJS**
+ 2. [Food Finder](https://ddhira123.github.io/learn_web_fe/index.html), dikembangkan dengan **NodeJS, AJAX, ES6**
   
 </details>
