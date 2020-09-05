@@ -6,6 +6,19 @@ Dhana adalah pegiat matematika yang amat menyukai pencarian solusi atas suatu ma
 
 ## Portofolio Desain
 
+<details>
+    <summary>Desain <em>User Interface</em>    
+    </summary>
+    
+    <ol>
+        <li>donasikeun!,<em>tool</em> yang digunakan:<strong>Figma</strong>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0mjj6Hd4JWwB5aMuQHHBJN%2FProjek-IMK-Final%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
+        </li>
+    </ol>
+  
+</details>
+
+
 ## Portofolio Software
 
 <details>
